@@ -1,0 +1,39 @@
+{"items": [
+{   "id": "1",
+    "title": "Album 1",
+    "price": "7.99",
+    "url": "../Bilder/Bild_1.jpg"
+},
+
+  {  "id": "2",
+    "title": "Album 2",
+    "price": "8.99",
+    "url": "../Bilder/Bild_2.jpg"  
+  },
+  
+  {  "id": "3",
+    "title": "Album 3",
+    "price": "9.99",
+    "url": "../Bilder/Bild_3.jpg"  
+  },
+  
+  {  "id": "4",
+    "title": "Album 4",
+    "price": "8.99",
+    "url": "../Bilder/Bild_4.jpg"  
+  },
+  
+  {  "id": "5",
+    "title": "Album 5",
+    "price": "9.99",
+    "url": "../Bilder/Bild_5.jpg"  
+  },
+  
+  {  "id": "6",
+    "title": "Album 6",
+    "price": "7.99",
+    "url": "../Bilder/Bild_6.jpg"  
+  }  
+     
+
+]}

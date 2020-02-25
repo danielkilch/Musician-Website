@@ -1,0 +1,102 @@
+body {
+
+    background: darkred;
+}
+
+/* Navigationsleiste Design */
+
+.center {
+
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.nav-link-wrapper a {
+
+    text-decoration:none;
+    margin: 10px;
+    padding: 20px;
+    color:white;
+    background-color: orange;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+}
+
+.nav-link-wrapper a:hover {
+    color: black;
+    background: rgb(250,250,100);
+}
+
+.nav-artist-wrapper a {
+
+    text-decoration: none;
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.nav-wrapper {
+    height: 150px;
+    border-bottom: 3px solid black;
+}
+
+/* Text Design*/
+
+h1{
+
+    color: white;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    margin-top: 50px;
+    font-style: italic;
+
+}
+
+h3{
+
+    color: white;
+    font-family: "Lato", sans-serif;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+
+/* Piano Design */
+
+.piano{
+
+    display: flex;
+    justify-content: center;
+  
+}
+
+.black{
+
+    background-color: black;
+    margin-left: -16px;
+    margin-right: -16px;
+    height: 100px;
+    width: 30px;
+    border: 1px solid white;
+    z-index: 2;
+}
+
+.black.active {
+    background-color:#333;
+
+}
+
+.white {
+
+    background-color: white;
+    border: 1px solid lightgray;
+    height: 200px;
+    width: 50px;
+}
+
+.white.active{
+    background-color: #fffaaa;
+}
+
